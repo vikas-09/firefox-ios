@@ -64,6 +64,9 @@
 /* Label used as an item in Settings screen. When touched, it will take user to address autofill settings page to that will allow user to add or modify saved addresses to allow for autofill in a webpage. */
 "Settings.AddressAutofill.Title.v126" = "Адреси";
 
+/* In the settings menu, in the General section, this is the title for the AI Controls settings section */
+"Settings.AIControls.Title.v150" = "Керування ШІ";
+
 /* Section description in Appearance settings for middle button configuration of the bottom toolbar. */
 "Settings.Appearance.NavigationToolbar.Description.v145" = "Зміна кнопки в центрі панелі інструментів.";
 
@@ -89,7 +92,7 @@
 "Settings.Appearance.Zoom.Title.v140" = "Масштаб сторінки";
 
 /* Zoom level title under page zoom settings to select the default zoom level for all websites */
-"Settings.Appearance.Zoom.ZoomLevelTitle.v140" = "Рівень масштабування";
+"Settings.Appearance.Zoom.ZoomLevelTitle.v140" = "Масштаб";
 
 /* In the settings menu, in the General section, this is the title for Autofills & Passwords customization section. */
 "Settings.AutofillAndPassword.Title.v137" = "Автозаповнення і паролі";
@@ -266,10 +269,16 @@
 "Settings.Summarize.GesturesSection.FooterTitle.v142" = "Потрусіть пристрій з боку в бік, щоб підсумувати вміст сторінки.";
 
 /* This is the title for the setting that toggles the Shake Gesture feature under the Summarize settings section. */
-"Settings.Summarize.GesturesSection.ShakeGestureTitle.v142" = "Струснути, щоб підсумувати";
+"Settings.Summarize.GesturesSection.ShakeGestureTitle.v142" = "Потрусити, щоб підсумувати";
 
 /* This is the section title for the gestures features under the Summarize settings section. */
 "Settings.Summarize.GesturesSection.Title.v142" = "Жести";
+
+/* The title for the language choose section for the summarizer inside the Summarize settings. */
+"Settings.Summarize.LanguageSection.Title.v149" = "Мова";
+
+/* The label for the picker option to select the website language for the summarizer inside the Summarize settings. */
+"Settings.Summarize.LanguageSection.WebsiteLanguageLabel.v149" = "Мова вебсайту";
 
 /* This is the title for the setting that toggles the Summarize feature under the Summarize settings section. */
 "Settings.Summarize.SummarizePagesTitle.v142" = "Підсумок вмісту сторінок";
@@ -308,5 +317,5 @@
 "Settings.Translation.Title.v145" = "Переклад";
 
 /* This is the title for the setting that toggles the Translation feature that allows users to translate web pages under the Translation settings section. */
-"Settings.Translation.ToggleTitle.v145" = "Увімкнути переклад";
+"Settings.Translation.ToggleTitle.v145" = "Увімкнути переклади";
 
